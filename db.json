@@ -1,0 +1,39 @@
+{
+  "gryPlanszowe": [
+    {
+      "nazwa": "Everdell",
+      "minimWiek": 10,
+      "minLG": 1,
+      "maxLG": 6,
+      "czasGryWMin": 90
+    },
+    {
+      "nazwa": "Inventions: Ewolucja idei",
+      "minimWiek": 14,
+      "minLG": 1,
+      "maxLG": 4,
+      "czasGryWMin": 115
+    },
+    {
+      "nazwa": "Eclipse: Drugi świt galaktyki",
+      "minimWiek": 14,
+      "minLG": 2,
+      "maxLG": 6,
+      "czasGryWMin": 130
+    },
+    {
+      "nazwa": "Zero Leader",
+      "minimWiek": 12,
+      "minLG": 1,
+      "maxLG": 1,
+      "czasGryWMin": 80
+    },
+    {
+      "nazwa": "Star Wars: Rebelia",
+      "minimWiek": 14,
+      "minLG": 2,
+      "maxLG": 4,
+      "czasGryWMin": 210
+    }
+  ]
+}
